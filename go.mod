@@ -1,4 +1,4 @@
-module PowerfulLogger
+module clerk
 
 go 1.23.0
 
