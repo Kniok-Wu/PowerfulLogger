@@ -1,4 +1,4 @@
-package PowerfulLogger
+package clerk
 
 import (
 	"go.uber.org/zap"
